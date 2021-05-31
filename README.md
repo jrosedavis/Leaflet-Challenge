@@ -4,6 +4,7 @@
 * Build a new set of tools that will allow the USGS to visualize their earthquake data. 
 
 ## Files:
+* 'Leaflet1' folder includes final index.html for visualizations and 'static' folder which include CSS and JS files.
 
 ## Instructions:
 
